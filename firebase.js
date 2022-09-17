@@ -4,7 +4,7 @@ import "firebase/firestore";
 import { initializeFirestore } from "firebase/firestore";
 const firebaseConfig = {
   // your config goes hconst firebaseConfig = {
-  apiKey: "AIzaSyAIqF6N4AtElRHfEzOowIPTsIFWffue5jE",
+  apiKey: "*********HfEzOowIPTsIFW*******",
   authDomain: "insta-e8cac.firebaseapp.com",
   projectId: "insta-e8cac",
   storageBucket: "insta-e8cac.appspot.com",
